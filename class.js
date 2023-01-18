@@ -17,3 +17,6 @@ class Rectangle {
           console.log(rect.CalArea());
           console.log(rect.Calperimeter());
      
+
+
+          //ADA WEEK 13 ASSIGNMENT
